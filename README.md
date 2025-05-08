@@ -1,4 +1,4 @@
-# Car-game
+# Retro car game
 
 This is a retro arcade-style racing game made in Python. Move with WASD or the arrow keys. Steer extra by holding Shift. Have fun!
 
