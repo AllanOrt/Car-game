@@ -8,6 +8,8 @@ The original project can be found [here](https://github.com/OneLoneCoder/Javidx9
 Modifications made by AllanOrt in 2025.  
 This version is released under the GNU General Public License v3.0 (see LICENSE file).
 
+![](https://allanortegren.se/assets/images/retro_bilspel.png)
+
 # How to run
 1. Navigate to the downloaded folder and install all necessary packages by executing the command `pip install -r requirements.txt`.
 2. Run the game by executing the command `python3 car_game.py`.
